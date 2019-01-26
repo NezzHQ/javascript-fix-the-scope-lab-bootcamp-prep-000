@@ -43,8 +43,6 @@ return function() {
  }
 }
 
-var funkyFunction = function() {
-  return function() {	  return function() {
-    return "FUNKY!"	    return "FUNKY!"
+
 
 
